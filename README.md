@@ -1,8 +1,5 @@
 # Lab 19 – Snake :PwnSec CTF 2024 – Mobile Hard
 
-**Plateforme :** MLIAEdu – Sécurité des applications mobiles  
-**Difficulté :** Hard  
-**Catégorie :** Mobile (Android)  
 
 ---
 
